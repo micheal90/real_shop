@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491859557576",
+    "firebase_url": "https://shop-c23fe-default-rtdb.firebaseio.com",
+    "project_id": "shop-c23fe",
+    "storage_bucket": "shop-c23fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491859557576:android:d43181a7d002d75d3f39fd",
+        "android_client_info": {
+          "package_name": "com.example.real_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491859557576-at37q8iomcd6ga9fusoqerrfpcr8frr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYjgy4d7TVtDgrOu7IiR3nm2G5HPCsmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491859557576-at37q8iomcd6ga9fusoqerrfpcr8frr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
